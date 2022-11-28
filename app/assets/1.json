@@ -1,0 +1,20 @@
+{
+  "name": "Ramses",
+  "symbol": "VK",
+  "description": "Capas livros de E. Velikovsky",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

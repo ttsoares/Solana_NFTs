@@ -1,0 +1,20 @@
+{
+  "name": "Peoples of the sea",
+  "symbol": "VK",
+  "description": "Capas livros de E. Velikovsky",
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
